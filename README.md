@@ -8,7 +8,11 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHBellini0&layout=compact&hide_border=true&title_color=038bbb&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+---
+
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=VictorHBellini0&theme=gotham&hide_border=true&area=true)
+
+---
 
 <div align="center">  
 <a href="https://www.instagram.com/vitim_cuxtela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
