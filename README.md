@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2b364a&height=150&section=header&text=Vitim+Cuxtela"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=038bbb&size=35&center=true&vCenter=true&width=1000&lines=Aoba,+Meu+Nome+é+Victor+Hugo+Bellini;Tenho+17+Anos;Eu+Sou+de+Viradouro,+SP;Estudo+algumas+linguagens;E+Seja+Bem-vindo!+:%29)](https://git.io/typing-svgc)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=038bbb&size=35&center=true&vCenter=true&width=1000&lines=Aoba,+Meu+Nome+é+Victor+Hugo+Bellini;Tenho+18+Anos;Eu+Sou+de+Viradouro,+SP;Estudo+algumas+linguagens;E+Seja+Bem-vindo!+:%29)](https://git.io/typing-svgc)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=VictorHBellini0&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=038bbb&icon_color=27b1bf&text_color=038bbb&bg_color=0d1117" alt="Victor H Bellini github stats" />
