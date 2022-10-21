@@ -13,10 +13,6 @@
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=VictorHBellini0&theme=gotham&hide_border=true&area=true)
 
 ---
-
-<div align="center">  
-<a href="https://www.instagram.com/vitim_cuxtela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div> 
  
 ### Estudando na Parte do (Front-End):
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -28,6 +24,10 @@
 ### Eatudando na parte do (Back-End):
 ![SqlServer](https://img.shields.io/badge/-Sql%20Server-0D1117?style=for-the-badge&logo=Microsoft-SQL-Server&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p> 
 
 <div align="center">
 <br><p align="centre"><b>Visitas em minha conta</b></p>  
